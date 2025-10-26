@@ -39,7 +39,7 @@ Download your regional report CSV from GEOGLAM and save it locally.
 In the notebook, update the placeholder with the path to your CSV:
 
 ```python
-csv_file = "PATH/TO/YOUR/NRM_REGIONAL_REPORT.csv"
+csv_file = "PATH_TO_YOUR_DOWNLOADED_NRM_REGIONAL_REPORT.csv"
 ```
 
 ### **4. Run the notebook**
