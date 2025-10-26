@@ -24,8 +24,8 @@ This Jupyter Notebook provides a complete workflow for analyzing and predicting 
 
 ### **1. Clone this repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/u8008892/nrm_vegetation_cover_ews.git
+cd nrm_vegetation_cover_ews
 ```
 
 ### **2. Install dependencies**
